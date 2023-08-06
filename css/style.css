@@ -1,0 +1,111 @@
+header , footer { 
+    background-color: lightblue;
+    font-size:100%;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: lighter;
+    font-style: normal;
+    height: 50%;
+    width: 100%;
+    padding: 10%;
+    padding-left: 10%;
+    padding-right: 10%;
+    bottom: 100%;
+}
+
+.claseprincipal {
+    background-color: rgb(92, 92, 22);
+    font-size: 100%;   
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight:bold;
+    font-style: normal;
+    line-height:30px;
+    margin: 0;
+    padding: 20px;
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.claseprincipal , .claseinternacional {
+    background-color: rgb(92, 92, 22);
+    font-size: 100%;   
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight:bold;
+    font-style: normal;
+    line-height:30px;
+    margin: 0;
+    padding: 20px;
+    padding-left: 0;
+    padding-right: 0;
+}
+.tabla-horarios { 
+    content: center;
+}
+
+.dias { 
+    text-align: center;
+    font-size: 120%;
+    color: hotpink;
+}
+
+.dias-de-la-semana , .lunes { 
+    color: red;
+    font-size: 120%;    
+}
+
+.dias-de-la-semana , .martes { 
+    color: blue;
+    font-size: 120%;
+}
+
+.dias-de-la-semana , .miercoles { 
+    color: green;
+    font-size: 120%;
+}
+
+.dias-de-la-semana , .jueves { 
+    color: yellow;
+    font-size: 120%;
+}
+
+.dias-de-la-semana , .viernes { 
+    color: grey;
+    font-size: 120%;
+}
+
+.horarios-de-la-semana , .horario-lunes { 
+    color: red;
+    font-size: 90%;
+}
+
+.horarios-de-la-semana , .horario-martes { 
+    color: blue;
+    font-size: 90%;
+}
+
+.horarios-de-la-semana , .horario-miercoles { 
+    color: green;
+    font-size: 90%;
+}
+
+.horarios-de-la-semana , .horario-jueves { 
+    color: yellow;
+    font-size: 90%;
+}
+
+.horarios-de-la-semana , .horario-viernes { 
+    color: grey;
+    font-size: 90%;
+}
+
+.formulario { 
+    border-style: dashed;
+    background-color: yellow;
+    font-size: 100%;   
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight:bold;
+    font-style: normal;
+    text-align: center;
+    margin-bottom: 5%;
+}
+
+
